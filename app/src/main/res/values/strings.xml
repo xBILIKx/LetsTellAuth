@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LetsTellAuth</string>
+    <string name="tittle">LETS TELL</string>
+    <string name="startTittleDesc">The story begins</string>
+    <string name="startDesc">Discover an amazing way to write and read stories</string>
+    <string name="logButt">SIGN IN</string>
+    <string name="logOutButt">LOG OUT</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
